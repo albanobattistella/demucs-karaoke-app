@@ -8,6 +8,7 @@ The app uses a small catalog-based i18n setup for frontend UI text.
 - `es`: Spanish UI catalog
 - `zh-CN`: Simplified Chinese UI catalog
 - `fr`: French UI catalog
+- `it`: Italian UI catalog
 
 Only frontend UI copy is translated. Song titles, artists, lyrics, media filenames, provider output,
 and API payload content remain unchanged.

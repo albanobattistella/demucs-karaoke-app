@@ -17,6 +17,7 @@ ALL_LOCALES = {
     "en": "English",
     "es": "Español",
     "fr": "Français",
+    "it": "Italiano",
     "zh-CN": "简体中文",
     "zh-TW": "繁體中文",
 }

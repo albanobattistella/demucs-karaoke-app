@@ -267,7 +267,7 @@ See [docs/vocal-sync.md](docs/vocal-sync.md) for the Add Vocals workflow and off
 ### Language switching
 
 The shared page header includes a language selector. The app currently supports English (`en`),
-Spanish (`es`), French (`fr`), and Chinese (`zh-CN`, `zh-TW`) for frontend UI labels only. Song titles, artists, lyrics, filenames,
+Spanish (`es`), French (`fr`), Italian (`it`), and Chinese (`zh-CN`, `zh-TW`) for frontend UI labels only. Song titles, artists, lyrics, filenames,
 provider responses, and other backend content are shown as-is. The selected language is stored in a
 `karaoke_locale` cookie and applies to server-rendered templates and dynamic frontend messages.
 
@@ -286,7 +286,7 @@ When adding or modifying UI text in templates or JavaScript:
    }
    ```
 
-2. **Translate to all supported locales** (currently `es`, `fr`, `zh-CN`, and `zh-TW`):
+2. **Translate to all supported locales** (currently `es`, `fr`, `it`, `zh-CN`, and `zh-TW`):
    - Keep the same keys and placeholder format (`{key}`, `{count}`)
    - Only translate the value, never the key
 

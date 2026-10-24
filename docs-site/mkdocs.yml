@@ -47,6 +47,9 @@ plugins:
         - locale: fr
           name: Français
           build: true
+        - locale: it
+          name: Italiano
+          build: true
         - locale: zh
           name: 简体中文
           build: true
