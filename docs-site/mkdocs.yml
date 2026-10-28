@@ -50,6 +50,37 @@ plugins:
         - locale: it
           name: Italiano
           build: true
+          nav_translations:
+            Back to App: Torna all'app
+            Home: Pagina iniziale
+            Getting Started: Per iniziare
+            Overview: Panoramica
+            Demucs Service: Servizio Demucs
+            Clients: Dispositivi client
+            Backup, Restore, Upgrade: Backup, ripristino e aggiornamento
+            Features: Funzionalità
+            Queue Page: Pagina della coda
+            Media Page: Libreria multimediale
+            Stage Display: Schermo del palco
+            Media Editing: Modifica dei file multimediali
+            Configuration: Configurazione
+            Environments: Variabili d'ambiente
+            Settings Page: Pagina delle impostazioni
+            Karaoke Processing: Elaborazione karaoke
+            WhisperX Lyrics: Testi con WhisperX
+            Application Paths: Percorsi dell'applicazione
+            Downloads: Download
+            Stage: Palco
+            Tools: Strumenti
+            Custom Lyrics Provider: Provider di testi personalizzato
+            Tasks: Guide pratiche
+            For Users: Per gli utenti
+            Karaoke Tasks: Operazioni karaoke
+            Create AI Karaoke: Creare karaoke con l'IA
+            Stage & Branding: Palco e personalizzazione
+            Server Administration: Amministrazione del server
+            Media Administration: Gestione dei file multimediali
+            Troubleshooting: Risoluzione dei problemi
         - locale: zh
           name: 简体中文
           build: true
